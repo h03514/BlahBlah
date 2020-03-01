@@ -1,0 +1,9 @@
+D:\CSharp\BlahBlah\BlahBlah\bin\Debug\BlahBlah.exe.config
+D:\CSharp\BlahBlah\BlahBlah\bin\Debug\BlahBlah.exe
+D:\CSharp\BlahBlah\BlahBlah\bin\Debug\BlahBlah.pdb
+D:\CSharp\BlahBlah\BlahBlah\obj\Debug\BlahBlah.csprojAssemblyReference.cache
+D:\CSharp\BlahBlah\BlahBlah\obj\Debug\BlahBlah.Form1.resources
+D:\CSharp\BlahBlah\BlahBlah\obj\Debug\BlahBlah.Properties.Resources.resources
+D:\CSharp\BlahBlah\BlahBlah\obj\Debug\BlahBlah.csproj.GenerateResource.cache
+D:\CSharp\BlahBlah\BlahBlah\obj\Debug\BlahBlah.exe
+D:\CSharp\BlahBlah\BlahBlah\obj\Debug\BlahBlah.pdb
